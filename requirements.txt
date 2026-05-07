@@ -1,0 +1,8 @@
+gradio
+torch
+torchvision
+numpy
+Pillow
+bidict
+huggingface-hub
+git-lfs
